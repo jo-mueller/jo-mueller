@@ -1,6 +1,6 @@
-### Johannes Soltwedel 👋
+### Johannes Soltwedel
 
-Welcome to my personal github page!
+Postdoc at BioImage analysis technology development group @ Physics of Life, Dresden, Germany
 
 <!--
 **jo-mueller/jo-mueller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
