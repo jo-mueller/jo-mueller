@@ -1,4 +1,6 @@
-### Hi there 👋
+### Johannes Soltwedel 👋
+
+Welcome to my personal github page!
 
 <!--
 **jo-mueller/jo-mueller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
