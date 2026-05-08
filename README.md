@@ -4,7 +4,7 @@ Research software engineer at German Bioimaging e.V.
 
 - Orcid: [https://orcid.org/0000-0003-1273-2412](https://orcid.org/0000-0003-1273-2412)
 
-[![Follow me on Bluesky](https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff&label=Follow%20me%20on&color=0285FF)](https://bsky.app/profile/jo-soltwedel.bsky.social) ![jo-mueller](https://img.shields.io/github/followers/jo-mueller) [<img src="https://img.shields.io/twitter/follow/jm_mightypirate?label=@jm_mightypirate&style=social" alt="Twitter @jm_mightypirate">](https://twitter.com/jm_mightyirate)
+[![Follow me on Bluesky](https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff&label=Follow%20me%20on&color=0285FF)](https://bsky.app/profile/jo-soltwedel.bsky.social) ![jo-mueller](https://img.shields.io/github/followers/jo-mueller)
 
 
 <!--
